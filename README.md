@@ -17,3 +17,21 @@ This repository contains a Python notebook analysis of the Superstore sales data
 ## Notes
 
 This project is intended to be used as the basis for creating a Power BI dashboard from the cleaned/exported dataset.
+
+## Power BI Dashboard
+
+This project also includes an interactive Power BI dashboard that visualizes key sales performance metrics.
+
+### Dashboard Insights
+
+- Total Sales and Profit overview
+- Regional sales performance
+- Category and sub-category analysis
+- Customer segment profitability
+- Discount impact on profit
+
+### Dashboard Preview
+
+![Dashboard Overview](images/analysis.png)
+
+![Sales by Region](images/sales_by_category.png)
